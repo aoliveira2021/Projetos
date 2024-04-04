@@ -18,3 +18,4 @@ Power Apps (Linguagem Low Code Power FX)
 Sharepoint Online
 Power Automate
 Teams
+Approvalls
